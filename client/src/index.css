@@ -1,0 +1,13 @@
+.main-content {
+  max-width: 800px;
+  margin: 1rem auto;
+}
+.error-msg {
+  color: #d31c1cd6;
+  margin-top: 5px;
+}
+
+.success-msg {
+  color: green;
+  font-size: 20px;
+}
